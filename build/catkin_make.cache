@@ -1,0 +1,2 @@
+joystick_drivers/joy:joystick_drivers/joystick_drivers:joystick_drivers/spacenav_node:joysub
+-DCATKIN_DEVEL_PREFIX=/home/daviddoo02/mpep/devel -DCMAKE_INSTALL_PREFIX=/home/daviddoo02/mpep/install -G Unix Makefiles
